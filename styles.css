@@ -179,4 +179,8 @@ p {
        margin-left: auto;
        margin-right: auto;
     }
+    #header {
+        padding-top: 63.5px;
+        padding-bottom: 63.5px;
+    }
 }
